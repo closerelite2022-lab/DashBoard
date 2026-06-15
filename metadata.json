@@ -1,0 +1,6 @@
+{
+  "name": "Control de Operaciones y Facturacion",
+  "description": "Dashboard Gerencial Ejecutivo BI-PestControl con Sincronizacion de Google Sheets en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
